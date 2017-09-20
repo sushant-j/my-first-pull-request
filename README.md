@@ -6,10 +6,10 @@ Helping first time contributors learn the mechanics of submitting a pull request
 
 # 0. Create an issue
 1. Go to [Issue section](https://github.com/sushant-j/my-first-pull-request/issues) of the repository.
-![Create new issue](/images/DEMO - 01.png)
+![Create new issue](https://raw.githubusercontent.com/sushant-j/my-first-pull-request/master/images/DEMO%20-%2001.png)
 2. Click on the green button labelled 'New Issue', in the right top corner.
 3. Give a title and description to the issue. 
-![Submit issue](/images/DEMO - 02.png)
+![Submit issue](https://raw.githubusercontent.com/sushant-j/my-first-pull-request/master/images/DEMO%20-%2002.png)
 1. Assign label _my-first-pr_ to the issue. 
 1. Click on green button labelled 'Submit' to submit the issue.    
  
