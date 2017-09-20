@@ -8,14 +8,17 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li>
-            {% if site.author %}
+            <!-- {% if site.author %}
               {{ site.author | escape }}
             {% else %}
-              {{ site.title | escape }}
-            {% endif %}
+              {{ site.title | escape }} is
+            {% endif %} -->
+            Made in ☮ by Sushant J.
             </li>
             {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            <li>
+              Reach me at <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+            </li>
             {% endif %}
         </ul>
       </div>

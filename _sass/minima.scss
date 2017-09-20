@@ -1,8 +1,9 @@
 @charset "utf-8";
 
 // Define defaults for each variable.
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500');
 
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$base-font-family: "Roboto", sans-serif !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
