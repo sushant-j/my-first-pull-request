@@ -24,7 +24,7 @@ github_username:  sushant-j
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
