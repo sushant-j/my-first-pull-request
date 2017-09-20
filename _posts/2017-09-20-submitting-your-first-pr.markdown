@@ -1,6 +1,9 @@
-# my-first-pull-request
-Helping first time contributors learn the mechanics of submitting a pull request
-
+---
+layout: post
+title:  "Submitting your first PR!"
+date:   2017-09-20 19:08:30 +0530
+categories: contribution walkthrough 
+---
 
 # Welcome
 
