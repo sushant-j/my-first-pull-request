@@ -43,7 +43,7 @@ Helping first time contributors learn the mechanics of submitting a pull request
 
   Congrats!
   --Now its on author to merge changes you made or not.
-  --if any suggestions are made,correct it and repeat step 3 and 4 again. <b>Cheers</b>
+  --if any suggestions are made,correct it and repeat step 3 and 4 again.<b>Cheers</b>
  
 
   
