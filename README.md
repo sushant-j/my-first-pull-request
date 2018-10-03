@@ -32,7 +32,7 @@ Helping first time contributors learn the mechanics of submitting a pull request
    1. Push the changes to branch other than master.
    	-- you can change branch by git checkout branchname(<b>Do not make changes in master branch.NEVER</b>).
   	-- if you have not created branch then you can create it by git branch branchname.
- 	-- git push -u origin issue_name.
+ 	-- git push -u origin branchname.
 
 
  # 6.Signing in
