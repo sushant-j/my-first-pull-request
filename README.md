@@ -2,48 +2,23 @@
 Helping first time contributors learn the mechanics of submitting a pull request
 
 
-# Welcome
+# Introduction
 
-# 0. Create an issue
-1. Go to [Issue section](https://github.com/sushant-j/my-first-pull-request/issues) of the repository.
-![Create new issue](https://raw.githubusercontent.com/sushant-j/my-first-pull-request/master/images/DEMO%20-%2001.png)
-2. Click on the green button labelled 'New Issue', in the right top corner.
-3. Give a title and description to the issue. 
-![Submit issue](https://raw.githubusercontent.com/sushant-j/my-first-pull-request/master/images/DEMO%20-%2002.png)
-1. Assign label _my-first-pr_ to the issue. 
-1. Click on green button labelled 'Submit' to submit the issue.    
+Hello there! This repository aims to help you make your very first pull request (PR). There are 2 types of PRs you can submit:
+
+ ### 1. Add your name to list on home page.
+  To do this, fork this repository to your account. And in the `_layouts > home.html`, **append** your name with link to your GitHub profile. 
+ ### 2. Help in improving this repository by adding/modifying documentation, beautifying the basic theme used, etc.
+  Check the [Issue section](https://github.com/sushant-j/my-first-pull-request/issues) of the repository and comment on the listed issue. Or create a new issue.
  
-> **Congrats!** You've created your first issue! Follow the next steps to complete your PR journey! 
 
-# 1. Fork the repository
+# Local Setup
 
+If you plan to modify/improve this project, you will need to build the project locally to quickly verify the changes. This project uses Jekyll static site generator to create the final version that is deployed online. Follow the steps below to run this site locally:
 
-# 2. Clone the repository
-   -- you will get a link out there,clone it by copy the link from dialog box.
-
-
-# 3. Make necessary changes.
-
-
-# 4. Commit with a proper commit message.
-1. git commit filename -m"message".
- 
-# 5. Initiate a Pull Request
-   1. Push the changes to branch other than master.
-   	-- you can change branch by git checkout branchname(<b>Do not make changes in master branch.NEVER</b>).	
-  	-- if you have not created branch then you can create it by git branch branchname.
- 	-- git push -u origin issue_name.
-
-
- # 6.Signing in
-  if you are pushing request for the 1st time you need to sign in with your username and password.
-
- # 7.Opening pull requests:
-  If you are hoping to contribute back to the original repository, you can send a request to the original author to pull your fork into their repository by submitting a pull request.
-
-  Congrats!
-  --Now its on author to merge changes you made or not.
-  --if any suggestions are made,correct it and repeat step 3 and 4 again.<b>Cheers</b>
+1. Install [Jekyll](https://jekyllrb.com/) by following [installation instructions](https://jekyllrb.com/docs/) on their official site.
+2. Install dependencies by running `bundle install`
+2. Run with `bundle exec jekyll serve` to have the site running locally with live-reload.
  
 
   
