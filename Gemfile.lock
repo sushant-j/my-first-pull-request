@@ -17,7 +17,6 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
-    jekyll-analytics (0.1.11)
     jekyll-feed (0.11.0)
       jekyll (~> 3.3)
     jekyll-sass-converter (1.5.2)
