@@ -16,9 +16,17 @@ Helping first time contributors learn the mechanics of submitting a pull request
 > **Congrats!** You've created your first issue! Follow the next steps to complete your PR journey! 
 
 # 1. Fork the repository
+A fork is a copy of a repository.
+Click Fork button in the top-right corner of the page.
+That's it! Now, you have a fork of the original repository.
 
 # 2. Make necessary changes
+In your copy of original repository,make necessary changes.
+Changes can be adding , deleting or updating the files.
 
 # 3. Commit with a proper commit message.
+Commit means saving the changes that you have made.
+Make sure that your commit message is clear and unambiguous.Limit it to 50 characters.
 
 # 4. Initiate a Pull Request
+Pull requests let you tell others about changes you've pushed to a GitHub repository. Once a pull request is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary.
