@@ -1,7 +1,6 @@
 # my-first-pull-request
 Helping first time contributors learn the mechanics of submitting a pull request
 
-
 # Welcome
 
 # 0. Create an issue
@@ -16,14 +15,12 @@ Helping first time contributors learn the mechanics of submitting a pull request
 > **Congrats!** You've created your first issue! Follow the next steps to complete your PR journey! 
 
 # 1. Fork the repository
-
+![How to fork the repository](https://raw.githubusercontent.com/mehul1011/my-first-pull-request/master/images/DEMO%20-%2003.png)
 
 # 2. Clone the repository
-   -- you will get a link out there,clone it by copy the link from dialog box.
-
-
+   -- you will get a link out there,clone it by copying the link from dialog box and downloading as zip file or just copy the link in the terminal and clone it to your desktop.
+   
 # 3. Make necessary changes.
-
 
 # 4. Commit with a proper commit message.
 1. git commit filename -m"message".
@@ -44,6 +41,3 @@ Helping first time contributors learn the mechanics of submitting a pull request
   Congrats!
   --Now its on author to merge changes you made or not.
   --if any suggestions are made,correct it and repeat step 3 and 4 again.<b>Cheers</b>
- 
-
-  
