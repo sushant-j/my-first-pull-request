@@ -10,9 +10,8 @@ You can check the following topics that will guide you through your PR submittin
 3. [Make necessary-changes](#3-make-necessary-changes)
 4. [Commit with a proper commit message](#4-commit-with-a-proper-commit-message)
 5. [Initiate a Pull Request](#5-initiate-a-pull-request)
-6. [Signing in](#6signing-in)
-7. [Opening pull requests](#7opening-pull-requests)
-
+6. [Signing in](#6-signing-in)
+7. [Opening pull requests](#7-opening-pull-requests)
 
 -----------
 
@@ -47,10 +46,10 @@ You can check the following topics that will guide you through your PR submittin
  	-- git push -u origin issue_name.
 
 
-# 6.Signing in
+# 6. Signing in
 if you are pushing request for the 1st time you need to sign in with your username and password.
 
-# 7.Opening pull requests:
+# 7. Opening pull requests:
 If you are hoping to contribute back to the original repository, you can send a request to the original author to pull your fork into their repository by submitting a pull request.
 
 Congrats!
