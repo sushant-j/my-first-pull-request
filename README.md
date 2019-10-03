@@ -17,6 +17,11 @@ Helping first time contributors learn the mechanics of submitting a pull request
 
 # 1. Fork the repository
 
+1. On the upper-right corner of the repo, you'll see a fork icon.
+![fork icon](./images/DEMO-03.png)
+2. Click on the fork icon, and wait until the forking process is finished.
+3. You're done! You can now fork the repo using your github user directly.
+
 
 # 2. Clone the repository
    -- you will get a link out there,clone it by copy the link from dialog box.
