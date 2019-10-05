@@ -16,14 +16,18 @@ Helping first time contributors learn the mechanics of submitting a pull request
 > **Congrats!** You've created your first issue! Follow the next steps to complete your PR journey! 
 
 # 1. Fork the repository
-
+   -- Select the repository in which you want to work  
+   --Click on the fork button on the upper right hand side of repository's page 
+   --That is it , Now you can copy original repository in a github account   
 
 # 2. Clone the repository
    -- you will get a link out there,clone it by copy the link from dialog box.
 
 
 # 3. Make necessary changes.
-
+   -- Make the changes required and do save it and then use command 
+   -- " git add . " // to add the neccesary changes to file
+   -- " git add --all " can also be used to do same changes    
 
 # 4. Commit with a proper commit message.
 1. git commit filename -m"message".
