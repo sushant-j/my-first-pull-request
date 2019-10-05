@@ -45,5 +45,6 @@ Helping first time contributors learn the mechanics of submitting a pull request
   --Now its on author to merge changes you made or not.
   --if any suggestions are made,correct it and repeat step 3 and 4 again.<b>Cheers</b>
  
-
+# 8.Accepting the pull request
+--If your repository requires reviews, pull requests must have a specific number of approving reviews from people with write or admin permissions in the repository before they can be merged.
   
