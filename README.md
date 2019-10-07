@@ -17,6 +17,9 @@ Helping first time contributors learn the mechanics of submitting a pull request
 
 # 1. Fork the repository
 
+Forking the repository is basically making a copy of the repository, but with a link back to the original.
+
+To fork, click the Fork button on the upper right-hand side of the repository’s page.
 
 # 2. Clone the repository
    -- you will get a link out there,clone it by copy the link from dialog box.
