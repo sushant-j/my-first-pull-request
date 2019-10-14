@@ -1,0 +1,11 @@
+dict={
+        'English':'Hello World!' ,
+        'French':'Bonjour le monde!',
+        'Arabic':'Marhaba Aalem!',
+        'Spanish':'Hola Mundo!',
+        'Latin':'Orbis Terrarum salve!'
+     }
+     
+for lang,HW in dict.items():
+   print(lang+'='+HW)
+   
