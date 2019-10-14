@@ -18,16 +18,22 @@ email: sushantj@sminq.com
 description: > # this means to ignore newlines until "baseurl:"
   Welcome! This project exists for beginners to learn the mechanics of making a Pull Request, or PR.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://first-pull-request.tk" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: sushdagr8
+url: "https://sushant-j.github.io/my-first-pull-request" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: apparentlyquiet
 github_username:  sushant-j
 
 # Build settings
 markdown: kramdown
-# theme: minima
+theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-analytics
 
+
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA-6226203-3        # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -39,3 +45,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+# theme: jekyll-theme-slate
