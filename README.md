@@ -35,7 +35,8 @@ You can check the following topics that will guide you through your PR submittin
 
 
 # 2. Clone the repository
-   -- you will get a link out there,clone it by copy the link from dialog box.
+   -- you will get a link out there,clone it by copy the link from dialog box.( To make your own local copy of the repository you would like to contribute to, let’s first open up a terminal window.
+We’ll use the git clone command along with the URL that points to your fork of the repository.)
 
 
 # 3. Make necessary changes.
