@@ -39,7 +39,7 @@ You can check the following topics that will guide you through your PR submittin
 
 
 # 3. Make necessary changes.
-
+   -- You need to make some changes in any file and add this in git.
 
 # 4. Commit with a proper commit message.
 1. git commit filename -m"message".
