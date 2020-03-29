@@ -4,7 +4,7 @@ Helping first time contributors learn the mechanics of submitting a pull request
 ## Menu
 You can check the following topics that will guide you through your PR submitting process.
 
-0. [Create and issue](#0-create-an-issue)
+0. [Create an issue](#0-create-an-issue)
 1. [Fork the repository](#1-fork-the-repository)
 2. [Clone the repository](#2-clone-the-repository)
 3. [Make necessary-changes](#3-make-necessary-changes)
