@@ -15,7 +15,7 @@ You can check the following topics that will guide you through your PR submittin
 
 -----------
 
-# 0. Create an issue
+# 0. Create an issue:
 1. Go to [Issue section](https://github.com/sushant-j/my-first-pull-request/issues) of the repository.
 ![Create new issue](https://raw.githubusercontent.com/sushant-j/my-first-pull-request/master/images/DEMO%20-%2001.png)
 2. Click on the green button labelled 'New Issue', in the right top corner.
@@ -26,7 +26,7 @@ You can check the following topics that will guide you through your PR submittin
  
 > **Congrats!** You've created your first issue! Follow the next steps to complete your PR journey! 
 
-# 1. Fork the repository
+# 1. Fork the repository:
 
 1. On the upper-right corner of the repo, you'll see a fork icon.
 ![fork icon](./images/DEMO-03.png)
@@ -34,24 +34,24 @@ You can check the following topics that will guide you through your PR submittin
 3. You're done! You can now fork the repo using your github user directly.
 
 
-# 2. Clone the repository
+# 2. Clone the repository:
    -- you will get a link out there,clone it by copy the link from dialog box.
 
 
-# 3. Make necessary changes.
+# 3. Make necessary changes:
 
 
-# 4. Commit with a proper commit message.
+# 4. Commit with a proper commit message:
 1. git commit filename -m"message".
  
-# 5. Initiate a Pull Request
+# 5. Initiate a Pull Request:
    1. Push the changes to branch other than master.
    	-- you can change branch by git checkout branchname(<b>Do not make changes in master branch.NEVER</b>).	
   	-- if you have not created branch then you can create it by git branch branchname.
  	-- git push -u origin issue_name.
 
 
-# 6. Signing in
+# 6. Signing in:
 if you are pushing request for the 1st time you need to sign in with your username and password.
 
 # 7. Opening pull requests:
