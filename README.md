@@ -15,7 +15,7 @@ You can check the following topics that will guide you through your PR submittin
 
 -----------
 
-# 0. Create an issue
+# 0. Create an Issue
 1. Go to [Issue section](https://github.com/sushant-j/my-first-pull-request/issues) of the repository.
 ![Create new issue](https://raw.githubusercontent.com/sushant-j/my-first-pull-request/master/images/DEMO%20-%2001.png)
 2. Click on the green button labelled 'New Issue', in the right top corner.
@@ -26,7 +26,7 @@ You can check the following topics that will guide you through your PR submittin
  
 > **Congrats!** You've created your first issue! Follow the next steps to complete your PR journey! 
 
-# 1. Fork the repository
+# 1. Fork the Repository
 
 1. On the upper-right corner of the repo, you'll see a fork icon.
 ![fork icon](./images/DEMO-03.png)
