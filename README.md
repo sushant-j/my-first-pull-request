@@ -51,7 +51,7 @@ You can check the following topics that will guide you through your PR submittin
  	-- git push -u origin issue_name.
 
 
-# 6. Signing in
+# 6. Signing in:
 if you are pushing request for the 1st time you need to sign in with your username and password.
 
 # 7. Opening pull requests:
