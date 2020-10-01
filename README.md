@@ -1,5 +1,5 @@
 # my-first-pull-request
-Helping first time contributors learn the mechanics of submitting a pull request
+Helping first time contributors learn the mechanics of submitting a pull request.
 
 ## Menu
 You can check the following topics that will guide you through your PR submitting process.
@@ -38,10 +38,10 @@ You can check the following topics that will guide you through your PR submittin
    -- you will get a link out there,clone it by copy the link from dialog box.
 
 
-# 3. Make necessary changes.
+# 3. Make necessary changes
 
 
-# 4. Commit with a proper commit message.
+# 4. Commit with a proper commit message
 1. git commit filename -m"message".
  
 # 5. Initiate a Pull Request
