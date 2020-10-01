@@ -18,10 +18,10 @@ categories: contribution walkthrough
  
 > **Congrats!** You've created your first issue! Follow the next steps to complete your PR journey! 
 
-# 1. Fork the repository
+# 1. Fork the repository.
 
-# 2. Make necessary changes
+# 2. Make necessary changes.
 
 # 3. Commit with a proper commit message.
 
-# 4. Initiate a Pull Request
+# 4. Initiate a Pull Request.
