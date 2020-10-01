@@ -52,7 +52,7 @@ You can check the following topics that will guide you through your PR submittin
 
 
 # 6. Signing in
-if you are pushing request for the 1st time you need to sign in with your username and password.
+if you are pushing request for the 1st time you need to sign in with your username E-mail and password.
 
 # 7. Opening pull requests:
 If you are hoping to contribute back to the original repository, you can send a request to the original author to pull your fork into their repository by submitting a pull request.
