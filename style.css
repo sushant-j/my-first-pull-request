@@ -1,0 +1,16 @@
+header {
+  text-align: center;
+}
+
+#survey-form {
+  display: flex;
+  flex-direction: column;
+  margin: 10px auto;
+  max-width: 80vw;
+}
+
+#survey-form label {
+  margin: 10px;
+  font-size: large;
+  font-weight: 200;
+}
